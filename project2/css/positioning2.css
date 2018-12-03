@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+
+       body {
+         font-family: 'Raleway', sans-serif;
+       }
+       article {
+         position:relative;
+         width: 750px;
+         height: 500px;
+         margin: 20px;
+         padding: 16px 10px;
+         background-color: #5cdfce;
+         border: 4px dotted #022776;
+         border-radius: 12px;
+       }
+       #first, #second, #third, #fourth, footer {
+         border-radius: 12px;
+         border: 2px dotted #60342f;
+         margin: 4px;
+       }
+       section#first {
+         position: absolute;
+         background-color: #EAFBFA;
+         float: left;
+         width: 230px;
+         padding: 15px;
+         margin-right: 8px;
+       }
+       section#second {
+         background-color: #EAFBFA;
+         float: right;
+         width: 422px;
+         padding: 15px;
+         margin-left: 8px;
+         margin-top: 7px;
+       }
+
+       section#third {
+         background-color: #EAFBFA;
+         float: right;
+         width: 422px;
+         margin-top: 20px;
+         padding: 18px 15px;
+       }
+      footer {
+         background-color: #EAFBFA;
+         float: left;
+         width: 700px;
+         padding: 15px;
+         margin: 50px 8px 10px 8px;
+       }
+       h1 {
+         font-family: 'Lobster Two', cursive;
+         color: #022776;
+         font-size: 2.5em;
+         line-height: 1.3em;
+         margin: 0;
+         padding: 4px
+       }
+       h2 {
+         color: #022776;
+         font-size: 26px;
+         line-height: 1.3em;
+         margin: 0;
+         padding: 4px;
+       }
+       h4 {
+         font-family: 'Bonbon', sans-serif;
+         color: #022776;
+         font-size: 18px;
+         line-height: 1.3em;
+         margin: 0;
+         padding: 4px;
+         text-align: center;
+
+       }
+
+       p {
+            font-size: 14px;
+            line-height: 1.4em;
+            color: #630;
+       }
+       #third p {
+            font-size: 1.2em;
+            text-align: center;
+            padding: 5px 0;
+            line-height: 1.3em;
+       }
+       .clear {
+            clear: both;
+       }

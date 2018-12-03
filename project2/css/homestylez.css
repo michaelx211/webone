@@ -1,0 +1,40 @@
+.centertext {
+    text-align: center;
+  }
+
+body {background-color: royalblue;
+}
+
+h1{
+  font-family: 'Phosphate', serif;
+  font-size: 50px;
+  text-align: center;
+ color:"white";
+}
+h2{
+  font-family: 'Phosphate', serif;
+  font-size: 42px;
+  color:"white";
+}
+h3{
+  font-family: 'Phosphate', serif;
+  font-size: 30px;
+  color:"white";
+}
+
+p{
+  font-family: 'Phosphate', serif;
+  font-size: 18px;
+  text-align: center;
+  margin: 20px 0px
+  width: 200px;
+  line-height: 24px;
+  color:"white";
+}
+main{
+  width: 1000px;
+  margin: 30px auto;
+  text-align: center;
+  background-color:rgb(66, 134, 244);
+  padding:30px;
+}

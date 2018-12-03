@@ -1,0 +1,44 @@
+
+nav{
+  margin: 40px, 0;
+}
+nav ul{
+  list-style-type: none;/* remove bullets */
+    margin: 30px 0;
+    padding: 12px;
+    background-color: gold; /* bar-color */
+    text-align: center;
+}
+nav li{
+  display: inline;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Trirong', serif;
+}
+
+nav li a:link, nav li a:visited{
+ background-color: black ;
+	  border-radius: 3px; /*round the corners on the nav items*/
+	  text-decoration: none; /*remove default underlines from links*/
+	  padding: 6px 8px;
+	  margin: 0;
+	  font-size: 1.3em;
+    color: "white";
+  }
+    p{
+      color: "white";
+  }
+ /*
+text-decoration: none;
+  background-color: rgb(194, 249, 231); light seaforam  color: rgb(0, 0, 0);
+  border-radius: 3px;
+  padding: 4px 8px;
+  margin: 3px;
+ */
+
+}
+
+nav li a:hover{
+background-color: lightsalmon; /* rgb(235, 244, 241) */ /*highlight color*/
+color: rgb(255, 255, 255);
+}

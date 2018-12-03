@@ -1,0 +1,36 @@
+h1, h2, h3, h4, h5, h5{
+  font-family: 'Snippet', sans-serif;
+  text-transform: uppercase;
+}
+h1{
+  text-align: center;
+  font-size: 4em;
+  line-height: .70em;
+
+}
+.tiny {
+ font-size: 55%
+}
+h6, li{
+  font-family: 'Teko', sans-serif;
+}
+p{
+  font-family: 'David Libre', serif
+  }
+.v-center{
+  height: auto;
+  margin-top: 10%
+}
+  /*///NAV STYLES///*/
+  nav ul{
+    list-style-type: none;
+    text-align: center;
+  }
+  nav li{
+    display: inline;
+    margin-right: .8em
+    font-size: .9em
+  }
+  font-family: 'David Libre', serif;
+  font-family: 'Teko', sans-serif;
+  font-family: 'Snippet', sans-serif;
