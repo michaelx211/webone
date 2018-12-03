@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+div.tall_450{
+  height: 450px;
+}
+div.cell {
+background-color: rgb(154, 204, 116);
+outline: 1px solid black;
+}
+div.cell.red {
+  background-color: rgb(206, 50, 40);
+}
+
+div.cell.yellow {
+  background-color: rgb(245, 221, 91);
+}
+
+div.cell.blue {
+  background-color: rgb(44, 102, 173);
+}
+div.cell.black {
+  background-color: black;
+}
+div.cell.white {
+  background-color: white;
+}
