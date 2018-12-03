@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 4-3 Zurb index</title>
+    <!--  ///NEED FOR ZURB/// -->
+    <link rel="stylesheet" href="../zurb6/css/foundation.css">
+    <link rel="stylesheet" href="../zurb6/css/app.css">
+    <!--  ///END NEED FOR ZURB/// -->
+    <link href="https://fonts.googleapis.com/css?family=David+Libre|Snippet|Teko" rel="stylesheet">
+
+
+  </head>
+  <body>
+    <div class="grid-container">
+
+      <div class="grid-x grid-padding-x grid-margin-x grid-margin-y"> <!-- ///Row 1/// -->
+        <div class="large-12 cell">
+          <h1>Lab 4 Responsive Images</h1>
+          <nav>
+          <ul>
+            <li><a href="index.html">Lab 4 Index</a></li>
+            <li><a href="lab4-2.html">Lab 4-2 </a></li>
+            <li><a href="lab4-3.html">Lab 4-3</a></li>
+          </ul>
+          </nav>
+        </header>
+        </div>
+
+      <section class="grid-x grid-padding-x grid-margin-y"> <!-- //ROW 2// -->
+        <figure class="large-2 medium-3cell">
+          <img src="../img/kh3ride.jpg" alt="sora and gang on a buzz lightyear ride">
+          <figcaption>
+            New world themed on Monsters, Inc. Let’s start with the obvious stuff. In the newly revealed trailer, Monsters, Inc. was introduced as the second Pixar world introduced for the game after Toy Story. Sora, Goofy and Donald are clad in monster-like outfits, and they will be teaming up with Sully and Mike to traverse through a world with gimmicks, obstacles and foes that match the setting of the Monsters, Inc. universe.
+          </figcaption>
+        </figure>
+        <figure class="large-3 medium-4 cell">
+          <img src="../img/kh3riku.jpg" alt="Riku with new outfit and keyblade">
+          <figcaption>Theme Song “Don’t Think Twice” by Hikaru Utada revealed
+          Japanese pop singer Hikaru Utada wrote and sang the theme songs for the original Kingdom Hearts and Kingdom Hearts II. 13 years after the last main entry in the series, it was announced that she is on board for Kingdom Hearts III as well. A trailer featuring the game’s theme song “Don’t Think Twice” was shown during the presentation.</figcaption>
+        </figure>
+          <figure class="large-7 medium-5 cell">
+            <img src="../img/kh3grass.jpg" alt="sora and gang, speaking to the villians">
+            <figcaption>Gummi Ship goes open world
+            Traveling through space to reach new worlds with your customizable Gummi Ship has been a staple of the series since the first game. This will evolve to a whole new level for Kingdom Hearts III. While until now you had fly through a linear stage, in Kingdom Hearts III you will be able to freely fly around in 360 degrees through an open environment. The Gummi Ship gameplay will be divided into battle phases and exploration phases. Evolved gameplay here will surely make customizing your Gummi Ship even more important than before.
+    </figcaption>
+            <figure>
+        </div>
+    </section>
+
+    </div> <!-- //End GRID Container\\ -->
+<!--  ///NEED FOR ZURB/// -->
+    <script src="../zurb6/js/vendor/jquery.js"></script>
+    <script src="../zurb6/js/vendor/what-input.js"></script>
+    <script src="../zurb6/js/vendor/foundation.js"></script>
+    <script src="../zurb6/js/app.js"></script>
+<!--  ///NEED FOR ZURB/// -->
+
+  </body>
+</html>
